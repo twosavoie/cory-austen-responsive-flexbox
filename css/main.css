@@ -37,7 +37,8 @@ header {
 
 
 header h1 {
-    font-family: 'Lora', serif;
+/*    font-family: 'Lora', serif; */
+    font-family: 'Dela Gothic One', cursive;
 /*    font-size: 30px; */
     font-size: 2rem;
     color: #687588;
@@ -68,7 +69,8 @@ nav ul li a {
 header h2 {
 /*    width: 1000px; */
 /*    clear: both; */
-    font-family: 'Lora', serif;
+ /*   font-family: 'Lora', serif; */
+    font-family: 'Work Sans', sans-serif;
 /*    font-size: 72px; */
     font-size: 1.5rem;
 /*    line-height: 80px; */
@@ -95,7 +97,8 @@ header h2 span {
 }
 
 #about h2 {
-    font-family: 'Lora', serif;
+ /*   font-family: 'Lora', serif; */
+    font-family: 'Work Sans', sans-serif;
 /*    font-size: 36px; */
     font-size: 2em;
 /*    padding-left: 50px; */
@@ -148,7 +151,8 @@ header h2 span {
 }
 
 #work p {
-    font-family: 'Lora', serif;
+ /*   font-family: 'Lora', serif; */
+    font-family: 'Work Sans', sans-serif; 
     font-size: 18px;
     line-height: 30px;
     width: 60%;
@@ -184,7 +188,8 @@ header h2 span {
     padding-right: 10px;
 }
 #contact h2 {
-    font-family: 'Lora', serif;
+/*    font-family: 'Lora', serif; */
+    font-family: 'Work Sans', sans-serif;
     font-size: 36px;
     line-height: 44px;
 }
@@ -320,7 +325,8 @@ header h2 span {
         text-align: left;
     }
     #work h3 {
-        width: 50%;
+    /*    width: 50%; */
+        width: 45%;
     }
     #contact ul {
         width: 70%;
