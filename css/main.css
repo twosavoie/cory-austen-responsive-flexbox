@@ -1,6 +1,7 @@
 /****** BASE STYLES ******/
 html {
     font-size: 16px;
+    color: red;
 }
 body {
     font-family: 'Source Sans Pro', sans-serif;
@@ -130,6 +131,7 @@ header h2 span {
        flex-flow: row wrap;
 }
 #work .third-width {
+    /* positions images in center */
     display: flex;
     justify-content: center;
     flex-flow: row wrap;
